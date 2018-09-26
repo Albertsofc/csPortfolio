@@ -1,7 +1,7 @@
 # csPortfolio
 
 * WebPage [here](https://albertsofc.github.io/lightning2/)
-* Lightning [here(https://albertsofc.github.io/lightning2/)
+* Lightning [here](https://albertsofc.github.io/lightning2/)
 
 ```Java
  while (endX<550) {
