@@ -2,6 +2,8 @@
 
 * WebPage [here](https://albertsofc.github.io/dogPage/dogPage3//)
 * Lightning [here](https://albertsofc.github.io/lightning2/)
+* Dice [here](https://albertsofc.github.io/dice3/)
+* Starfield [here](https://albertsofc.github.io/Starfield/)
 
 ```Java
  while (endX<550) {
