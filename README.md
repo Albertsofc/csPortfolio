@@ -2,10 +2,10 @@
 ### Here you will find lots of code!
 > These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
 
--Chemotaxis
--Arrays
--CSS
--HTML
+- Chemotaxis
+- Arrays
+- CSS
+- HTML
 
 
 * WebPage [here](https://albertsofc.github.io/dogPage/dogPage3//)
