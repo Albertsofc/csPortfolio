@@ -44,9 +44,9 @@ ___
   <summary>September, 2017</summary>
   <br>
   I started my first comp sci course, AP Computer Science.
-  <details>
+
 <details>
   <summary>March, 2017</summary>
   <br>
   I started working as an instructor at the Community Ed organization **_Girls Who Code_**!
-  <details>
+
