@@ -1,10 +1,12 @@
 # Welcome to my csPortfolio!
-### Here you will find lots of code!
+### Here you will find lots of code, all done by me, **_Olivia Alberts_**!
+### Scroll to the bottom of the page for a breif history of my involvement with computer sceince.
 > These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
 > - Chemotaxis
 > - Arrays
 > - CSS
 > - HTML
+>
 
 
 * WebPage [here](https://albertsofc.github.io/dogPage/dogPage3//)
@@ -34,3 +36,6 @@ class NormalParticle implements Particle {
   }
 }
 ```
+___
+### Olivia's History in Computing
+> September, 2017
