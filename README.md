@@ -39,5 +39,5 @@ class NormalParticle implements Particle {
 }
 ```
 ___
-### Olivia's History in Computing
+## Olivia's History in Computing
 > September, 2017
