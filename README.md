@@ -7,7 +7,7 @@
 > - CSS
 > - HTML
 >
-
+    |    
 ---|---
  Webpage | [open here!](https://albertsofc.github.io/dogPage/dogPage3//)
  Lightning | [open here!](https://albertsofc.github.io/lightning2/)
