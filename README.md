@@ -44,6 +44,7 @@ ___
   <summary>September, 2017</summary>
   <br>
   I started my first comp sci course, AP Computer Science, at Rosemount High School. Through this course I learned the basics of Java.
+   </details>
 
 <details>
   <summary>March, 2018</summary>
@@ -56,6 +57,7 @@ ___
   <summary>April, 2018</summary>
   <br>
   Awarded "Certificate of Distinction" by the National Center of Women in Technology's Aspirations in Computing program.
+   </details>
 
   <summary>September, 2018</summary>
   <br>
