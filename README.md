@@ -1,5 +1,6 @@
 # Welcome to my csPortfolio!
-## Here you will find lots of code- some of it is having technical difficulties right now, as I write primarily in Java and not JavaScript, but loading it into Processing will ease those diffiulties.
+### Here you will find lots of code!
+## > These various projects were part of my Advanced Computer Science class, a class focused on the use of _data structures_**!
 
 * WebPage [here](https://albertsofc.github.io/dogPage/dogPage3//)
 * Lightning [here](https://albertsofc.github.io/lightning2/)
