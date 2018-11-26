@@ -48,5 +48,5 @@ ___
 <details>
   <summary>March, 2017</summary>
   <br>
-  I started working as an instructor at the Community Ed organization **_Girls Who Code_**!
+  I started working as an instructor at the Community Ed organization **Girls Who Code**!
 
