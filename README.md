@@ -58,7 +58,7 @@ ___
   <br>
   Awarded "Certificate of Distinction" by the National Center of Women in Technology's Aspirations in Computing program.
    </details>
-
+ <details>
   <summary>September, 2018</summary>
   <br>
   Started Advanced Computer Science, a dual-enrollment program through a local community college. In this course I was introduced to CSS, JavaScript, and HTML, and expanded on my knowledge of Java.
@@ -73,5 +73,6 @@ ___
   <br>
   Started this year's Hack Club as a Leader. Took initiative to reach out to all math classes, not just computer science classes, to encourage students who haven't had experience with coding to come and see if they like it! Presented to coputer science classes as well. Every week, I spend an hour with these new coders, engaging them in the excitement of code! 
    </details>
+   
   #### If I've learned one thing during my time as a student of computer science, it's been adaptation. Since the field changes so quickly, I've gotten accoustumed to using all my resources to solve a problem in the most efficient way possible.
 
