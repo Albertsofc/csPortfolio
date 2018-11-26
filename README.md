@@ -1,13 +1,18 @@
 # Welcome to my csPortfolio!
 ### Here you will find lots of code!
-> These various projects were part of my Advanced Computer Science class, a class focused on the use of _data structures_**!
+> These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
+-Chemotaxis
+-Arrays
+-CSS
+-HTML
+
 
 * WebPage [here](https://albertsofc.github.io/dogPage/dogPage3//)
 * Lightning [here](https://albertsofc.github.io/lightning2/)
 * Dice [here](https://albertsofc.github.io/dice3/)
 * Starfield [here](https://albertsofc.github.io/starfield5/)
 
-### This is the most interesting code I've written so far, found in my "Starfield" lab. It makes a glitter-type particle (a star, in this case), and can easily be instantiated into an array. In my Starfield lab, I have around 400 of these guys.
+> This is the most interesting code I've written so far, found in my "Starfield" lab. It makes a glitter-type particle (a star, in this case), and can easily be instantiated into an array. In my Starfield lab, I have around 400 of these guys.
 ```Java
 class NormalParticle implements Particle {
   double x, y, speed, angle;
