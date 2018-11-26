@@ -1,6 +1,7 @@
 # Welcome to my csPortfolio!
 ### Here you will find lots of code!
-> These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:>
+> These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
+
 -Chemotaxis
 -Arrays
 -CSS
