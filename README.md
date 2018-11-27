@@ -1,6 +1,6 @@
 # Welcome to my csPortfolio!
 ### Here you will find lots of code, all done by me, **_Olivia Alberts_**!
-#### Scroll to the bottom of the page for a breif history of my involvement with computer sceince.<br>Scroll even lower for my portfolio reflection
+#### - Scroll to the bottom of the page for a breif history of my involvement with computer sceince.<br> - Scroll even lower for my portfolio reflection
 ___
 > These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
 > - Chemotaxis
