@@ -12,7 +12,7 @@ ___
 #### Below you'll find some of the projects I've done so far.
 Project! | Link!
 ---|---
-Chemotaxis | open here!
+Chemotaxis | [open here!](https://albertsofc.github.io/chemotaxis/index.html)
  College Presentation: University of Abertay | [open here!](https://albertsofc.github.io/starfield5/college.html)
  Dice | [open here!](https://albertsofc.github.io/dice3/)
  Lightning | [open here!](https://albertsofc.github.io/lightning2/)
