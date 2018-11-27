@@ -10,8 +10,8 @@
 >
 Lab! | Link!
 ---|---
+Chemotaxis | open here!
  College Presentation: University of Abertay | [open here!](https://albertsofc.github.io/starfield5/college.html)
- Chemotaxis | open here!
  Dice | [open here!](https://albertsofc.github.io/dice3/)
  Lightning | [open here!](https://albertsofc.github.io/lightning2/)
  Starfield | [open here!](https://albertsofc.github.io/starfield5/)
