@@ -52,7 +52,6 @@ ___
 
 <details>
   <summary>March, 2018</summary>
-  <br>
   I started working as an instructor at the Community Ed organization Girls Who Code!
   Here, I work with elementary school aged girls to help inspire a love of coding within them, as well as help them to become comfortable with Java logic.
   <br>
@@ -60,25 +59,24 @@ ___
   
 <details>
   <summary>April, 2018</summary>
-  <br>
   Awarded "Certificate of Distinction" by the National Center of Women in Technology's Aspirations in Computing program.
   <br>
    </details>
  <details>
   <summary>September, 2018</summary>
-  <br>
+ 
   Started Advanced Computer Science, a dual-enrollment program through a local community college. In this course I was introduced to CSS, JavaScript, and HTML, and expanded on my knowledge of Java.
   <br>
    </details>
  <details>
   <summary>October, 2018</summary>
-  <br>
+ 
   Started my second term of Coding for Girls!
   <br>
    </details>
  <details>
   <summary>November, 2018</summary>
-  <br>
+  
   Started this year's Hack Club as a Leader. Took initiative to reach out to all math classes, not just computer science classes, to encourage students who haven't had experience with coding to come and see if they like it! Presented to coputer science classes as well. Every week, I spend an hour with these new coders, engaging them in the excitement of code! 
   <br>
    </details>
