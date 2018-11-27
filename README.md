@@ -2,12 +2,15 @@
 ### Here you will find lots of code, all done by me, **_Olivia Alberts_**!
 ### Scroll to the bottom of the page for a breif history of my involvement with computer sceince.
 ### Scroll even lower for my portfolio reflection
+___
 > These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
 > - Chemotaxis
 > - Arrays
 > - CSS
 > - HTML
 >
+___
+#### Below you'll find some of the projects I've done so far.
 Project! | Link!
 ---|---
 Chemotaxis | open here!
@@ -84,6 +87,7 @@ ___
    
   #### If I've learned one thing during my time as a student of computer science, it's been adaptation. Since the field changes so quickly, I've gotten accoustumed to using all my resources to solve a problem in the most efficient way possible.
   
+  ___
   
  # Portfolio Reflection
  #### Reflect on your portfolio projects
