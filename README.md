@@ -8,7 +8,7 @@
 > - CSS
 > - HTML
 >
-Lab! | Link!
+Project! | Link!
 ---|---
 Chemotaxis | open here!
  College Presentation: University of Abertay | [open here!](https://albertsofc.github.io/starfield5/college.html)
