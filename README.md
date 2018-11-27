@@ -46,7 +46,6 @@ ___
 # Olivia's History in Computing
 <details>
   <summary>September, 2017</summary>
-  <br>
   I started my first comp sci course, AP Computer Science, at Rosemount High School. Through this course I learned the basics of Java.
   <br>
    </details>
