@@ -52,7 +52,7 @@ ___
 
 <details>
   <summary>March, 2018</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started working as an instructor at the Community Ed organization Girls Who Code!
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started working as an instructor at the Community Ed organization Girls Who Code!<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, I work with elementary school aged girls to help inspire a love of coding within them, as well as help them to become comfortable with Java logic.
   <br>
   </details>
