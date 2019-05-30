@@ -26,9 +26,9 @@ Christmas Card | [repo!](https://github.com/SamEriksenSchultz/ACS-Holiday-Card/t
  Lightning | [open here!](https://albertsofc.github.io/lightning2/)
  Starfield | [open here!](https://albertsofc.github.io/starfield5/)
  Webpage | [open here!](https://albertsofc.github.io/dogPage/dogPage3//)
- MovieReviews | [open here!] ()
- GradData | [open here!]()
- ClubsList | [open here!]()
+ MovieReviews | [open here!] (https://github.com/Albertsofc/finalMovie/tree/master)
+ GradData | [repo!](https://github.com/sunkuma/DataProject)
+ ClubsList | [repo!](https://github.com/Albertsofc/almostFinalProject)
 
  #### Here are some informative presentations I've done!
  Project! | Link!
