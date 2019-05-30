@@ -5,23 +5,32 @@ ___
 > These various projects were part of my Advanced Computer Science class, a class focused on the use of **_data structures_**! The topics we've encountered so far include:
 > - Chemotaxis
 > - Arrays
-> - CSS
+> - Trees
+> - Linked Lists
+> - Maps
+>
+> We've also covered multiple languages over the course of the year! I primarily code in **_Java_** but have also learned to code in:
 > - HTML
+> - CSS
+> - JavaScript
 >
 ___
-#### Below you'll find some of the projects I've done so far.
+#### Below you'll find some of the projects I've done so far. My two favorites are the GradData project and the ClubsList project
 Project! | Link!
 ---|---
 Chemotaxis | [open here!](https://albertsofc.github.io/chemotaxis/index.html)
 Christmas Card | [repo!](https://github.com/SamEriksenSchultz/ACS-Holiday-Card/tree/master)
- College Presentation: University of Abertay | [open here!](https://albertsofc.github.io/starfield5/college.html)
  Dice | [open here!](https://albertsofc.github.io/dice3/)
  Lightning | [open here!](https://albertsofc.github.io/lightning2/)
  Starfield | [open here!](https://albertsofc.github.io/starfield5/)
  Webpage | [open here!](https://albertsofc.github.io/dogPage/dogPage3//)
+ MovieReviews | [open here!] ()
+ GradData | [open here!]()
+ ClubsList | [open here!]()
 
- 
-
+ #### Here are some informative presentations I've done!
+ College Presentation: University of Abertay | [open here](https://albertsofc.github.io/starfield5/college.html)
+ Cybersecurity in China | [open here]
 
 ___
 
