@@ -29,6 +29,8 @@ Christmas Card | [repo!](https://github.com/SamEriksenSchultz/ACS-Holiday-Card/t
  ClubsList | [open here!]()
 
  #### Here are some informative presentations I've done!
+ Project! | Link!
+---|---
  College Presentation: University of Abertay | [open here](https://albertsofc.github.io/starfield5/college.html)
  Cybersecurity in China | [open here]
 
@@ -96,7 +98,7 @@ ___
    </details>
    <details>
   <summary>April, 2019</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In April this year, I was awarded a State Winner by the National Center for Women in Technology's Aspirations in Computing program. Visit the website [here!](https://mnstateitcoe.org/announcing-the-2019-minnesota-aspirations-for-women-in-computing-awards-honorees/)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In April this year, I was awarded a State Winner by the National Center for Women in Technology's Aspirations in Computing program. Visit the website at https://mnstateitcoe.org/announcing-the-2019-minnesota-aspirations-for-women-in-computing-awards-honorees/
   <br>
    </details>
    
