@@ -73,7 +73,7 @@ ___
   
 <details>
   <summary>April, 2018</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded "Certificate of Distinction" by the National Center of Women in Technology's Aspirations in Computing program.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded "Certificate of Distinction" by the National Center for Women in Technology's Aspirations in Computing program.
   <br>
    </details>
  <details>
@@ -91,7 +91,12 @@ ___
  <details>
   <summary>November, 2018</summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Started this year's Hack Club as a Leader. Took initiative to reach out to all math classes, not just computer science classes, to encourage students who haven't had experience with coding to come and see if they like it! Presented to coputer science classes as well. Every week, I spend an hour with these new coders, engaging them in the excitement of code! 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Started this year's Hack Club as a Leader. I took initiative to reach out to all math classes, not just computer science classes, to encourage students who haven't had experience with coding to come and see if they like it! Presented to coputer science classes as well. Every week, I spend an hour with these new coders, engaging them in the excitement of code! 
+  <br>
+   </details>
+   <details>
+  <summary>April, 2019</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In April this year, I was awarded a State Winner by the National Center for Women in Technology's Aspirations in Computing program. Visit the website [here!](https://mnstateitcoe.org/announcing-the-2019-minnesota-aspirations-for-women-in-computing-awards-honorees/)
   <br>
    </details>
    
