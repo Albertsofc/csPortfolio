@@ -33,7 +33,7 @@ Christmas Card | [repo!](https://github.com/SamEriksenSchultz/ACS-Holiday-Card/t
  #### Here are some informative presentations I've done!
  Project! | Link!
 ---|---
- College Presentation: University of Abertay | [open here](https://albertsofc.github.io/starfield5/college.html)
+ College Presentation: University of Abertay | [open here](https://docs.google.com/presentation/d/e/2PACX-1vS-c4-TeLT7lqfRA_iGIxpvDJRh3QGaIOc8jD3QjIbgCq5nkMLFOG1me3cENhPxyFQhgW8gv6RZ579w/pub?start=false&loop=true&delayms=10000)
  Cybersecurity in China | [open here](https://docs.google.com/presentation/d/e/2PACX-1vTnCXPs5APDxVR7Wr4dLcapUON9-rzDMQJhhxHKrzKI04yF5jgf9CksnFBswUK8yfsxplGlUBqeT3GP/pub?start=false&loop=true&delayms=10000)
 
 ___
