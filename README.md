@@ -8,6 +8,8 @@ ___
 > - Trees
 > - Linked Lists
 > - Maps
+> - Stacks
+> - Queues
 >
 > We've also covered multiple languages over the course of the year! I primarily code in **_Java_** but have also learned to code in:
 > - HTML
